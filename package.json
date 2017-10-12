@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "Cameo test automation",
   "scripts": {
-    "update-webdriver": "webdriver-manager update",
+    "update": "webdriver-manager update",
     "e2e": "protractor protractor.config.js"
   },
   "dependencies": {
